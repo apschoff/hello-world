@@ -18,5 +18,6 @@ Three things I enjoy:
 
 <br>
 
-![An Image of Me](/Computer Science/Hemingway.JPG)
-Format: ![Alt Text](url)
+An image: <br>
+<img src="http://cdnak1.psbin.com/img/mw=160/mh=210/cr=n/d=6xaa4/tfwr4bu8lp8osays.jpg">
+<br>
